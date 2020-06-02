@@ -1,6 +1,6 @@
 using System;
 
-namespace ResultsTracker_v1.Models
+namespace ResultsTracker.Models.ViewModels
 {
 	public class ErrorViewModel
 	{

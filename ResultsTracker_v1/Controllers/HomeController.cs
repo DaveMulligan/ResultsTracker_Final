@@ -5,7 +5,8 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using ResultsTracker_v1.Models;
+using ResultsTracker.Models;
+using ResultsTracker.Models.ViewModels;
 
 namespace ResultsTracker_v1.Controllers
 {

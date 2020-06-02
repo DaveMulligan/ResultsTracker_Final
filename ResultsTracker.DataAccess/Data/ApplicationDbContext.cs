@@ -4,7 +4,7 @@ using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
-namespace ResultsTracker_v1.Data
+namespace ResultsTracker_v1.DataAccess.Data
 {
 	public class ApplicationDbContext : IdentityDbContext
 	{
